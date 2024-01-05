@@ -18,7 +18,7 @@ Para a referência pragmática, apenas NPs (e subconjuntos de NPs) poderiam faze
 
 Para a referência semântica, no entanto, muitas outras expressões linguísticas além dos NPs poderiam participar do processo de referência, como é o caso de verbos e VPs, adjetivos e advérbios...
 
-**Tipos de NPs**
+### **Tipos de NPs**
 
 - One-word NPs - Nomes próprios (incluindo numerais) e pronomes;
 - Multi-word NPS - Bare NPs (NPs sem determinante) e NPs com determinantes.
@@ -26,4 +26,19 @@ Para a referência semântica, no entanto, muitas outras expressões linguístic
 Nota-se que, para os One-word NPs, eles não podem ocorrer com determinantes ou modificadores restritivos (dado retirado do Inglês).
 
 Já os Multi-word NPs possuem um nome simples como nome obrigatório (HEAD do NP), podendo estar acompanhado de um ou mais modificadores, como adjetivos, PPs e ou cláusulas relativas, e também em adição de um determinante. No entanto, é possível que um nome simples obrigatório apareça acompanhado de um ou mais modificadores mas sem a adição de um determinante, como é o caso de nomes de número plural (ex. noodles with cream sauce) ou nomes massivos (ex. overcooked spaghetti).
+
+## NPs com determinantes
+
+Dentro dos Multi-word NPs, temos os NPs com determinantes, que por sua vez possuem cincos subtipos. A seguir é possível ver a estrutura sintática básica de um NP com determinante.
+
+![image](https://github.com/Lisanju/semantic-system/assets/106002045/e2dc4ae8-a81b-41d8-8c57-c6d500561262)
+*(ABBOTT, 2010)*
+
+- NP = Sintagma Nominal;
+- Det = Determinante;
+- CNP = Sintagma Nominal Comum;
+- N = Nome;
+- PP = Sintagma Preposicional;
+- P = Preposição.
+
 
