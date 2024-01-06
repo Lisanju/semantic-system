@@ -58,27 +58,35 @@ Note que é comum considerar um NP Possessivo que possui na periferia esquerda s
   <th>Exemplos</th>
   <tr>
     <td>Nome Próprio</td>
+    <td>Abraham Lincoln, Madonna, two</td>
   </tr>
   <tr>
     <td>Pronome</td>
+    <td>you, them, this</td>
   </tr>
   <tr>
     <td>Bare NPs</td>
+    <td>yellow smoke, phones with ring tones</td>
   </tr>
   <tr>
     <td>Descrição Definida</td>
+    <td>the ants that we ate, the old computer</td>
   </tr>
   <tr>
     <td>NP Possessivo</td>
+    <td>Alex's game, most people's birthday</td>
   </tr>
   <tr>
     <td>Descrição Indefinida</td>
+    <td>an old computer, a glass of wine</td>
   </tr>
   <tr>
     <td>Descrição Demonstrativa</td>
+    <td>this little piggy, those boxes</td>
   </tr>
   <tr>
     <td>NP Quantificacional</td>
+    <td>most lost souls, several senators from the Midwest</td>
   </tr>
-
 </table>
+Tabela retirada de (ABBOTT, 2010)
