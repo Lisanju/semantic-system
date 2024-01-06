@@ -52,3 +52,33 @@ Os cinco subtipos de NPs com determinantes são:
 - NPs Quantificacionais - NPs com determinantes quantificadores (ex. no trees with rough bark; few yellow-bellied sapsuckers; every present that my grandmother gave me).
 
 Note que é comum considerar um NP Possessivo que possui na periferia esquerda superior o artigo 'the' como um NP de Descrição Definida também.
+
+<table>
+  <th>Tipos de NP</th>
+  <th>Exemplos</th>
+  <tr>
+    <td>Nome Próprio</td>
+  </tr>
+  <tr>
+    <td>Pronome</td>
+  </tr>
+  <tr>
+    <td>Bare NPs</td>
+  </tr>
+  <tr>
+    <td>Descrição Definida</td>
+  </tr>
+  <tr>
+    <td>NP Possessivo</td>
+  </tr>
+  <tr>
+    <td>Descrição Indefinida</td>
+  </tr>
+  <tr>
+    <td>Descrição Demonstrativa</td>
+  </tr>
+  <tr>
+    <td>NP Quantificacional</td>
+  </tr>
+
+</table>
